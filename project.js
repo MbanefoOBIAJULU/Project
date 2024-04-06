@@ -1,1 +1,1 @@
-console.log("hello world");
+let n = 10000
